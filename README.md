@@ -7,10 +7,13 @@ Data Science Student
 
 ## PROJECTS
 
-### [Project 1: Drug Synergy Prediction](https://github.com/Piyushg19dec/DrugSynergyPrediction)
-- Perform operations like Data Cleaning and ETL using Data Query editor.
-- Creates different kinds of reports and Dashboard using Data Visualization techniques.
-- Used Tools: Power BI Desktop, MS Access, Excel, Power BI Gateway, etc.
+### [Project 1: Drug Effect detection using Drug Synergy](https://github.com/Piyushg19dec/Drug_Synergy_Prediction)
+- Investigate methodologies to predict and detect drug effects, including usage and side effects properties, using
+ computational models and experimental validation.
+-  Developed a machine learning model to predict synergistic drug combinations, and gives best drug combinations
+ as an output.
+-  Trained and optimized a LightGBM and NGBoost model, to reduce error in predicting drug synergy scores for effective
+ treatments.
 
 ### [Project 2: Hand Written Text Recognition]()
 - Implemented by using CNN model.
