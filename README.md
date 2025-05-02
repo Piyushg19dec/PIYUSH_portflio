@@ -1,4 +1,4 @@
-# PIYUSH_Portfolio
+# PIYUSH
 Data Science Student
 
 ## EDUCATION
@@ -7,7 +7,7 @@ Data Science Student
 
 ## PROJECTS
 
-### [Project 1: Drug Effect detection using Drug Synergy](https://github.com/Piyushg19dec/Drug_Synergy_Prediction)
+### [Project 1: Drug Effect detection using Drug Synergy]()
 - Investigate methodologies to predict and detect drug effects, including usage and side effects properties, using
  computational models and experimental validation.
 -  Developed a machine learning model to predict synergistic drug combinations, and gives best drug combinations
